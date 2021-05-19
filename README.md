@@ -1,8 +1,10 @@
-# Decision-Tree-Task
+# Prediction-using-Decision-Tree-Algorithm
 DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP@GRIP THE Spark Foundation.
 
 Prediction Using Supervised ML
 
-This is a Linear Regression model which is used to predict the scores obtained by the student given the number of hours they study.
+This is a decision tree model  .
+
+To predict a new dataset into right classification accordingly by Creating the Decision Tree classifier and visualize it graphically. 
 
 
