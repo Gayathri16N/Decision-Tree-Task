@@ -1,10 +1,8 @@
 # Prediction-using-Decision-Tree-Algorithm
 DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP@GRIP THE Spark Foundation.
 
-Prediction Using Supervised ML
+Prediction Using Supervised ML : Decision tree algorithm
 
-This is a decision tree model  .
-
-To predict a new dataset into right classification accordingly by Creating the Decision Tree classifier and visualize it graphically. 
+In this task I have predicted a new dataset into right classification accordingly by Creating the Decision Tree classifier and visualize it graphically. 
 
 
